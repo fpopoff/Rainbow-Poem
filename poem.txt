@@ -6,4 +6,5 @@ blue
 green
 red
 yellow
+clear
 These are the colors of the rainbow.
