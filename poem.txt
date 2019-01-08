@@ -3,6 +3,7 @@ purple
 pink
 orange
 blue
+light blue
 indigo
 lime green
 green
@@ -13,3 +14,4 @@ clear
 These are the colors of the rainbow.
 And the unicorn
 And the goat
+And the sheep
