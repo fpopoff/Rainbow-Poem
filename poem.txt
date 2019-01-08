@@ -1,9 +1,10 @@
-The poem and unicorn and poney
+The poem and unicorn,poney and goat
 purple
 pink
 orange
 blue
 indigo
+lime green
 green
 unicorn
 red
@@ -11,3 +12,4 @@ yellow
 clear
 These are the colors of the rainbow.
 And the unicorn
+And the goat
